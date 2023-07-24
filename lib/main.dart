@@ -210,7 +210,7 @@ class _HomeAppState extends State<HomeApp> {
                         ),
                       ),
                       child: Text(
-                        'Stop',
+                        'Reset',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 20,
